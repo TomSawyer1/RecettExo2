@@ -1,0 +1,9 @@
+{
+    "name": "vendor/recettes-exam",
+    "description": "crée un systeme de recettes en php",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "^3.0@dev"
+    }
+}
